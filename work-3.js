@@ -1,5 +1,5 @@
-console.log(32);
-const num = 854;
+// console.log(32);
+const num = 8;
 
 function foo(params) {
   let parol = 0;
@@ -9,3 +9,4 @@ function foo(params) {
   }
 }
 foo(num);
+console.log(54);
