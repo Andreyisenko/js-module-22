@@ -60,4 +60,4 @@ const userBiggestExpenses = users.reduce((acc, elem) => {
   const result = accSum > elemSum ? acc : elem;
   return result;
 });
-console.log(userBiggestExpenses);
+// console.log(userBiggestExpenses);
