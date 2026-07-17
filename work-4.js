@@ -89,4 +89,4 @@ const newObject = employees.reduce((acc, elem) => {
   acc[elem.department] ? acc[elem.department]++ : (acc[elem.department] = 1);
   return acc;
 }, {});
-console.log(newObject);
+// console.log(newObject);
