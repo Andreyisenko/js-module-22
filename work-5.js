@@ -56,5 +56,8 @@ const timestamp = 1781027752615;
 
 const date = new Date(timestamp);
 
-console.log(date.toLocaleDateString());
-// Наприклад: 09.06.2026
+// console.log(date.toLocaleDateString());
+const dat = new Date();
+// console.log(dat);
+// console.log(Date.now());
+// console.log();
